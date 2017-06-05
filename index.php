@@ -6,8 +6,7 @@
   </head>
   <body>
     <?php
-
-
+        // ceci est un commentaire de branch01
     phpinfo();
     ?>
   </body>
