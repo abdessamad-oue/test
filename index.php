@@ -8,6 +8,17 @@
     <?php
         // ceci est un commentaire de branch01
     phpinfo();
+
+
+        
+      function bidon() {
+        echo "bidon";
+        }
+
     ?>
+
+        <footer>
+                <em>mon footer bidon</em>
+        </footer>
   </body>
 </html>
