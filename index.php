@@ -9,7 +9,7 @@
         // ceci est un commentaire de branch01
     phpinfo();
 
-
+ // test
         
       function bidon() {
         echo "bidon";
