@@ -7,6 +7,11 @@ pipeline {
         stage("Init") {
             steps {
                 echo "initialize the application"
+
+                script {
+                    def check = 10 > 1 ? 'cool' : 'not cool'
+                    echo check
+                }
             }
         }
 
